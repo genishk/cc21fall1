@@ -1,3 +1,7 @@
+# Contributed Page
+
+https://jtr13.github.io/cc21fall1/animating-the-plots-in-r.html
+
 # cc21fall1
 
 Community contributions for STAT GR 5702 (EDAV) Fall 2021 Mon/Wed
